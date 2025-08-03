@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/rio-helium",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "description": "Rio combinators for using the Helium registry",
   "keywords": [],
   "homepage": "https://github.com/dashkite/rio-helium#readme",
